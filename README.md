@@ -1,6 +1,6 @@
  Projeto desenvolvido em HTML, CSS e Typescript, que retorna de previsão climática pelo nome da cidade, estado ou país.
 
- Dados consumidos da API OpenWeather
+ Dados consumidos da API OpenWeather.
 
 ![image](https://github.com/WallFerreira/condicoes-climaticas/assets/47425983/a65dc9ad-96c5-4253-98a7-659288bfe41c)
 
